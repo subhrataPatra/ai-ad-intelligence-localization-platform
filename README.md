@@ -33,7 +33,7 @@ localization process:
 - 📦 Structured outputs for downstream workflows
 
 ## High-Level Workflow
-
+```text
 Ad Research
      ↓
 Data Collection
@@ -55,6 +55,7 @@ Approved → Final Output
      └── Changes Required
                 ↓
           Rerun / Reprocess
+```
 
 ## Technology Stack
 
@@ -122,3 +123,4 @@ docs/            → Technical documentation
 examples/        → Sanitized sample inputs and outputs
 workflows/       → Sanitized workflow examples
 prompts/         → Prompt design and AI processing notes
+```
