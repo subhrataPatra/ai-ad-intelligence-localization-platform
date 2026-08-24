@@ -34,7 +34,6 @@ localization process:
 
 ## High-Level Workflow
 
-```text
 Ad Research
      ↓
 Data Collection
@@ -68,6 +67,7 @@ Approved → Final Output
 | Creative Generation | Replicate |
 | Integrations | REST APIs / Webhooks |
 | Data Format | JSON |
+
 
 ## Key Engineering Focus
 
