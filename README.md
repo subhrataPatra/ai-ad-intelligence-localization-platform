@@ -56,9 +56,6 @@ Approved → Final Output
                 ↓
           Rerun / Reprocess
 ```
-## System Architecture
-
-![System Architecture](architecture/system-architecture.png)
 
 ## Technology Stack
 
@@ -117,6 +114,11 @@ I designed and implemented the core automation architecture, including:
 - Human-in-the-loop workflows
 - Rerun and post-review processing
 - Testing and workflow refinement
+
+## System Architecture
+
+![System Architecture](architecture/system-architecture.png)
+
 
 ## Repository Structure
 
