@@ -56,6 +56,9 @@ Approved → Final Output
                 ↓
           Rerun / Reprocess
 ```
+## System Architecture
+
+![System Architecture](architecture/system-architecture.png)
 
 ## Technology Stack
 
